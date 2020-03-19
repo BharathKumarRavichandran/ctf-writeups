@@ -1,0 +1,7 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html>
+<title>Upload Result Page</title>
+<body>
+<h2>Upload Result Page</h2>
+<hr>
+<strong>Success:</strong>File '/Users/toaster/Desktop/personal/projects/angstromctf/2020/misc/ws2/flag.jpg' upload success!<br><a href="http://localhost/">back</a><hr><small>Powerd By: bones7456, check new version at <a href="http://li2z.cn/?s=SimpleHTTPServerWithUpload">here</a>.</small></body>
+</html>
