@@ -1,0 +1,2 @@
+Dummy flag - auctf_{h3y_th3_fl4g}
+Real flag - auctf{h4_y0u_g0t_tr0ll3d_welC0m#_t0_pWN_l@nd}

@@ -1,0 +1,1 @@
+This web attack takes advantage of web applications that can perform actions input by trusted users without requiring any form of authorization from the user allowing an attacker to perform actions through another user.

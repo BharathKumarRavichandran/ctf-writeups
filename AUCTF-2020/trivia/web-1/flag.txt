@@ -1,0 +1,1 @@
+atomicity, consistency, isolation, durability

@@ -1,0 +1,42 @@
+We must train future hackers to break RSA quickly. Here is how this will work.
+I will multiply together two big primes (<= 10000000), give you the result,
+and you must reply to me in less than two seconds telling me what primes I
+multiplied.
+
+Press enter when you are ready.
+99971401960219
+Traceback (most recent call last):
+File "/misc/server.py", line 32, in <module>
+go()
+File "/misc/server.py", line 16, in go
+a, b = map(int, input().split())
+ValueError: invalid literal for int() with base 10: 'I'
+Yaaaay got the flag!!!!
+We must train future hackers to break RSA quickly. Here is how this will work.
+I will multiply together two big primes (<= 10000000), give you the result,
+and you must reply to me in less than two seconds telling me what primes I
+multiplied.
+
+Press enter when you are ready.
+99980180937137
+Traceback (most recent call last):
+File "/misc/server.py", line 32, in <module>
+go()
+File "/misc/server.py", line 16, in go
+a, b = map(int, input().split())
+ValueError: invalid literal for int() with base 10: 'I'
+Yaaaay got the flag!!!!
+We must train future hackers to break RSA quickly. Here is how this will work.
+I will multiply together two big primes (<= 10000000), give you the result,
+and you must reply to me in less than two seconds telling me what primes I
+multiplied.
+
+Press enter when you are ready.
+99989680009207
+We must train future hackers to break RSA quickly. Here is how this will work.
+I will multiply together two big primes (<= 10000000), give you the result,
+and you must reply to me in less than two seconds telling me what primes I
+multiplied.
+
+Press enter when you are ready.
+99987260085413
